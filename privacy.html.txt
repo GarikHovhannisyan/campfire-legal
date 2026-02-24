@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Privacy Policy - CampFire</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Privacy Policy</h1>
+
+<p>Effective date: 2026</p>
+
+<p>
+CampFire operates the CampFire mobile application.
+This page informs users about our policies regarding the collection,
+use, and disclosure of information.
+</p>
+
+<h2>Information We Collect</h2>
+
+<ul>
+<li>Device type</li>
+<li>Operating system</li>
+<li>Anonymous usage statistics</li>
+<li>Crash logs</li>
+</ul>
+
+<p>
+We do not collect personal data such as name, contacts, or location.
+</p>
+
+<h2>In-App Purchases</h2>
+
+<p>
+Payments are processed by Apple App Store or Google Play.
+We never receive or store your payment information.
+</p>
+
+<h2>GDPR (European Users)</h2>
+
+<p>
+Users located in the European Economic Area have the right to:
+</p>
+
+<ul>
+<li>Access their data</li>
+<li>Request deletion</li>
+<li>Object to processing</li>
+<li>Data portability</li>
+</ul>
+
+<h2>CCPA (California Users)</h2>
+
+<p>
+California residents have the right to request disclosure of data
+collected and request deletion of personal data.
+</p>
+
+<h2>Children</h2>
+
+<p>
+CampFire is not intended for children under 13.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+support@yourdomain.com
+</p>
+
+</div>
+
+</body>
+</html>

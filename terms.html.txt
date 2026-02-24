@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Terms of Service - CampFire</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Terms of Service</h1>
+
+<p>Effective date: 2026</p>
+
+<h2>Use of the App</h2>
+
+<p>
+CampFire is a conversation game designed for entertainment purposes.
+</p>
+
+<h2>Purchases</h2>
+
+<p>
+The app offers a one-time Pro upgrade processed by Apple or Google.
+Refunds follow their policies.
+</p>
+
+<h2>Intellectual Property</h2>
+
+<p>
+All content in the app belongs to CampFire and may not be copied
+without permission.
+</p>
+
+<h2>Limitation of Liability</h2>
+
+<p>
+The app is provided "as is".
+We are not responsible for user interactions.
+</p>
+
+<h2>Governing Law</h2>
+
+<p>
+These terms are governed by the laws of Your Country.
+</p>
+
+<h2>Contact</h2>
+
+<p>
+support@yourdomain.com
+</p>
+
+</div>
+
+</body>
+</html>
